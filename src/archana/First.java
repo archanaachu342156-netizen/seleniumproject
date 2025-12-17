@@ -21,7 +21,7 @@ public class First {
         if(b>a)
             System.out.println ("b is mmm big");
         else
-            System.out.println ("a is big");
+            System.out.println ("a is jjj big");
     }
     
     public static void main(String arg[])
