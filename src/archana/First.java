@@ -19,7 +19,7 @@ public class First {
         if(a>b)
         System.out.println ("a is big");
         if(b>a)
-            System.out.println ("b is big");
+            System.out.println ("b is mmm big");
         else
             System.out.println ("a is big");
     }
