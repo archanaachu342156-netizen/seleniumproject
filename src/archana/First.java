@@ -14,7 +14,7 @@ public class First {
         System.out.println("enter no one");
         Scanner sc=new Scanner(System.in);
         a=sc.nextInt();
-        System.out.println("enter");
+        System.out.println("enter juibhuyhvbuyhbvyu");
         b=sc.nextInt();
         if(a>b)
         System.out.println ("a is big");
